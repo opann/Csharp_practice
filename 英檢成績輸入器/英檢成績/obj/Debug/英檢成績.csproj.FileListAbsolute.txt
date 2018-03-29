@@ -1,0 +1,7 @@
+C:\vsproject\repo\180323\英檢成績\英檢成績\bin\Debug\英檢成績.exe.config
+C:\vsproject\repo\180323\英檢成績\英檢成績\bin\Debug\英檢成績.exe
+C:\vsproject\repo\180323\英檢成績\英檢成績\bin\Debug\英檢成績.pdb
+C:\vsproject\repo\180323\英檢成績\英檢成績\obj\Debug\英檢成績.csprojResolveAssemblyReference.cache
+C:\vsproject\repo\180323\英檢成績\英檢成績\obj\Debug\英檢成績.csproj.CoreCompileInputs.cache
+C:\vsproject\repo\180323\英檢成績\英檢成績\obj\Debug\英檢成績.exe
+C:\vsproject\repo\180323\英檢成績\英檢成績\obj\Debug\英檢成績.pdb

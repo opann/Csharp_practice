@@ -1,0 +1,7 @@
+C:\vsproject\repo\180323\划酒拳\划酒拳\bin\Debug\划酒拳.exe.config
+C:\vsproject\repo\180323\划酒拳\划酒拳\bin\Debug\划酒拳.exe
+C:\vsproject\repo\180323\划酒拳\划酒拳\bin\Debug\划酒拳.pdb
+C:\vsproject\repo\180323\划酒拳\划酒拳\obj\Debug\划酒拳.csprojResolveAssemblyReference.cache
+C:\vsproject\repo\180323\划酒拳\划酒拳\obj\Debug\划酒拳.csproj.CoreCompileInputs.cache
+C:\vsproject\repo\180323\划酒拳\划酒拳\obj\Debug\划酒拳.exe
+C:\vsproject\repo\180323\划酒拳\划酒拳\obj\Debug\划酒拳.pdb

@@ -1,0 +1,7 @@
+C:\vsproject\repo\180326\最大公因數\最大公因數\bin\Debug\最大公因數.exe.config
+C:\vsproject\repo\180326\最大公因數\最大公因數\bin\Debug\最大公因數.exe
+C:\vsproject\repo\180326\最大公因數\最大公因數\bin\Debug\最大公因數.pdb
+C:\vsproject\repo\180326\最大公因數\最大公因數\obj\Debug\最大公因數.csprojResolveAssemblyReference.cache
+C:\vsproject\repo\180326\最大公因數\最大公因數\obj\Debug\最大公因數.csproj.CoreCompileInputs.cache
+C:\vsproject\repo\180326\最大公因數\最大公因數\obj\Debug\最大公因數.exe
+C:\vsproject\repo\180326\最大公因數\最大公因數\obj\Debug\最大公因數.pdb

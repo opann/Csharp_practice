@@ -1,0 +1,7 @@
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\bin\Debug\樂透對獎機.exe.config
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\bin\Debug\樂透對獎機.exe
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\bin\Debug\樂透對獎機.pdb
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\obj\Debug\樂透對獎機.csprojResolveAssemblyReference.cache
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\obj\Debug\樂透對獎機.csproj.CoreCompileInputs.cache
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\obj\Debug\樂透對獎機.exe
+C:\vsproject\repo\180327\樂透對獎機\樂透對獎機\obj\Debug\樂透對獎機.pdb

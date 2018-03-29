@@ -1,0 +1,7 @@
+C:\vsproject\repo\180319\PMCounter\PMCounter\bin\Debug\PMCounter.exe.config
+C:\vsproject\repo\180319\PMCounter\PMCounter\bin\Debug\PMCounter.exe
+C:\vsproject\repo\180319\PMCounter\PMCounter\bin\Debug\PMCounter.pdb
+C:\vsproject\repo\180319\PMCounter\PMCounter\obj\Debug\PMCounter.csprojResolveAssemblyReference.cache
+C:\vsproject\repo\180319\PMCounter\PMCounter\obj\Debug\PMCounter.csproj.CoreCompileInputs.cache
+C:\vsproject\repo\180319\PMCounter\PMCounter\obj\Debug\PMCounter.exe
+C:\vsproject\repo\180319\PMCounter\PMCounter\obj\Debug\PMCounter.pdb
